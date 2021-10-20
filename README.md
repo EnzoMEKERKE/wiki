@@ -11,9 +11,7 @@ Saitama est un jeune homme sans emploi, déprimé et sans but profond dans sa vi
 
 # Personnages
     
-    **Saïtama** (サイタマ?)
-
-    Voix japonaise : Makoto Furukawa, voix française : Orelsan
+ **Saitama**  
    
 
 Jeune inactif ayant perdu goût à la vie, il décide de devenir un héros après avoir affronté un crabe géant. Dès lors, il s’entraîne pendant trois ans afin de devenir un puissant héros soit dix kilomètres de course à pied, cent pompes, cent abdos, cent squats, chaque jour. Après un entrainement « intensif », Saitama remarque deux changements : il est devenu terriblement fort, au point de vaincre ses ennemis en un coup, et a perdu tous ses cheveux. Sa principale attaque est le fameux « One Punch » pouvant vaincre des ennemis très puissants comme le Roi des Mers, Ashura Rhino, le Roi des Enfers ou même une météorite gigantesque, et bien d'autres encore. À son entrée dans la Ligue des héros, il est classé dernier de la Classe C, ayant réussi toutes les épreuves de force mais totalement raté les tests d'intellect. Il devient ensuite 7e de la Classe B. Bien qu'il soit le héros et le personnage le plus fort du manga, à cause de son faible charisme et de son incapacité à se concentrer, il est considéré à tort comme un tricheur qui utiliserait de nombreux artifices quand il bat un ennemi d'un seul coup. Même lorsqu'il sauve le monde d'une météorite, on lui reproche la destruction de la ville suite aux débris de celle-ci. Son nom de héros est « Le Chauve Capé »
