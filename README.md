@@ -5,3 +5,6 @@ Ce faux wiki a été crée par **MEKERKE Enzo** et **LARTIGAUD Elliot**
 
 # Présentation
 One Punch Man est un webcomic écrit et dessiné par *One* depuis le 3 juin 2009 sur son site [web](http://galaxyheavyblow.web.fc2.com/)
+
+## Synopsis
+
