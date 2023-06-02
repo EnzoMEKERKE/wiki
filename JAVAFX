@@ -1,3 +1,5 @@
+ALORS FLOP OU PAS LE PARTIEL ? 
+
 Pour développer cette application, nous utiliserons Java avec le framework JavaFX pour la partie graphique. Par souci de brièveté, je vais présenter des extraits de code pour chaque étape. Notez que certains détails d'implémentation, tels que la gestion des exceptions, ont été omis.
 Pour commencer, nous avons besoin de la structure de base de l'application. Voici un exemple simplifié de la classe principale de l'application :
 
